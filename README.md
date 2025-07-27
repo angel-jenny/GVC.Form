@@ -1,3 +1,3 @@
 # GVC.Form
-##Resgistration form for students
-###Apply now:
+Resgistration form for students
+Apply now:
